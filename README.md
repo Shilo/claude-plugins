@@ -12,7 +12,7 @@ Plugin marketplace for Claude Code.
 
 | Plugin | Description |
 |--------|-------------|
-| [`claude-loves-shelly`](https://github.com/shilo/claude-loves-shelly) | Run shell commands with `!` prefix or `/shelly` command |
+| [`claude-loves-shelly`](https://github.com/shilo/claude-loves-shelly) | Open commands in an external terminal with `>` prefix or `/shelly` command |
 
 Install a plugin:
 ```
