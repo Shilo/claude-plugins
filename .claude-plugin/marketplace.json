@@ -1,0 +1,16 @@
+{
+  "name": "shilo",
+  "owner": {
+    "name": "Shilo"
+  },
+  "plugins": [
+    {
+      "name": "claude-loves-shelly",
+      "source": {
+        "source": "github",
+        "repo": "shilo/claude-loves-shelly"
+      },
+      "description": "Run shell commands directly in Claude session with ! prefix or /shelly command"
+    }
+  ]
+}
