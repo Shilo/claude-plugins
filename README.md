@@ -2,7 +2,7 @@
 
 Plugin marketplace for Claude Code.
 
-## Install
+## Install Marketplace
 
 ```
 /plugin marketplace add shilo/claude-plugins
